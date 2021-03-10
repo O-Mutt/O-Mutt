@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt O'Keefe</h1>
 <h3 align="center">Goof ball full stack dev with a passion for front end dev.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutmatt" alt="mutmatt" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mutmatt" target="blank"><img src="https://img.shields.io/twitter/follow/mutmatt?logo=twitter&style=for-the-badge" alt="mutmatt" /></a> </p>
 
 - 🔭 I’m currently working at **@Auth0**
