@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matt O'Keefe</h1>
 <h3 align="center">Goof ball full stack dev with a passion for front end dev.</h3>
 
-<p align="left"> <a href="https://twitter.com/mutmatt" target="blank"><img src="https://img.shields.io/twitter/follow/mutmatt?logo=twitter&style=for-the-badge" alt="mutmatt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/O_Mutt" target="blank"><img src="https://img.shields.io/twitter/follow/O_Mutt?logo=twitter&style=for-the-badge" alt="O'Mutt" /></a> </p>
 
 - 🔭 I’m currently working at **@Auth0**
 
 - 🌱 I’m currently learning **everything, learning is life.**
 
-- 👨‍💻 All of my projects are available at [github.com/mutmatt](github.com/mutmatt)
+- 👨‍💻 All of my projects are available at [github.com/O-Mutt](github.com/O-Mutt)
 
 - 📝 I regularly write articles on [https://okeefe.dev/](https://okeefe.dev/)
 
@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mutmatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mutmatt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matthewerickson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matthewerickson" height="30" width="40" /></a>
+<a href="https://twitter.com/O_Mutt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mutmatt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matt-okeefe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Matt O'Keefe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/593154/mutmatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mutmatt" height="30" width="40" /></a>
-<a href="https://instagram.com/mutmatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mutmatt" height="30" width="40" /></a>
+<a href="https://instagram.com/o__mutt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mutmatt" height="30" width="40" /></a>
 <a href="/https://okeefe.dev/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://okeefe.dev/feed" height="30" width="40" /></a>
 </p>
 
@@ -42,7 +42,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutmatt&" alt="mutmatt" /></p>
 
 <!--
-**Mutmatt/mutmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**O-Mutt/O-Mutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
