@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/O-Mutt](github.com/O-Mutt)
 
-- 📝 I regularly write articles on [https://okeefe.dev/](https://okeefe.dev/)
+- 📝 I ~regularly~ sometimes write articles on [https://okeefe.dev/](https://okeefe.dev/)
 
 - 📫 How to reach me **matt@okeefe.dev**
 
