@@ -54,11 +54,17 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-Mutt&show_icons=true&locale=en&layout=compact" alt="O-Mutt" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-Mutt&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="O-Mutt" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=O-Mutt&show_icons=true&locale=en" alt="O-Mutt" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=O-Mutt&show_icons=true&locale=en&theme=github_dark" alt="O-Mutt" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Mutt&" alt="O-Mutt" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Mutt&theme=github_dark" alt="O-Mutt" />
+</p>
 
 <!--
 **O-Mutt/O-Mutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
