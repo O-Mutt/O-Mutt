@@ -54,17 +54,13 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-Mutt&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="O-Mutt" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=O-Mutt&show_icons=true&locale=en&theme=github_dark" alt="O-Mutt" />
-</p>
+[![O-Mutt Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=O-Mutt&show_icons=true&locale=en&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Mutt&theme=github_dark" alt="O-Mutt" />
-</p>
+[![O-Mutt Github Stats](https://github-readme-stats.vercel.app/api?username=O-Mutt&show_icons=true&locale=en&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![O-Mutt GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=O-Mutt&theme=github-dark-blue)](https://git.io/streak-stats)
+
 
 <!--
 **O-Mutt/O-Mutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
