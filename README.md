@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt O'Keefe</h1>
-<h3 align="center">Goof ball full stack dev with a passion for front end dev.</h3>
+<h3 align="center">Goof ball full stack dev with a passion for software and making users happy.</h3>
 
 <p align="left"> <a href="https://twitter.com/O_Mutt" target="blank"><img src="https://img.shields.io/twitter/follow/O_Mutt?logo=twitter&style=for-the-badge" alt="O'Mutt" /></a> </p>
 
