@@ -9,7 +9,7 @@
 - 📝 I ~regularly~ sometimes write articles on [https://okeefe.dev/](https://okeefe.dev/)
 - 📫 How to reach me **matt@okeefe.dev**
 - 😄 Pronouns: **he/him/his**
-- 📄 Know about my experiences [https://okeefe.dev/Resume](https://okeefe.dev/Resume)
+- 📄 Know about my experiences [https://resume.okeefe.dev/resumes/homely-selected-caterpillar.pdf](https://resume.okeefe.dev/resume-storage/cm0d19nyr0000rsyr6u8z3m39/resumes/homely-selected-caterpillar.pdf)
 - ⚡ Fun fact **I have 2 kids and 2 dogs**
 
 ### Blogs posts
